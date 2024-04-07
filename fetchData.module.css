@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div{
+    
+    color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.p{
+    height: 400px;
+    width:200px;
+    border: 1px solid rgb(237, 232, 232);
+    display: inline-block;
+    background-color: black;
+    border-radius: 20px;
+    margin: 30px;
+}
+
+img{
+    text-align: center;
+    border-radius: 50%;
+
+}
+
+button{
+    background-color:rgb(231, 157, 182);
+ border-radius:5px;
+ margin: 10px;
+ height:30px;
+ width:50px;
+ font-size:12px ;
+ font-weight: bolder;
+}
